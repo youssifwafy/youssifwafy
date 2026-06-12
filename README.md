@@ -16,7 +16,6 @@
 <div align="center">
 
 ![University](https://img.shields.io/badge/MUST-Computer_%26_Software_Engineering-6d28d9?style=for-the-badge&logo=academia&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.72%2F4.0-7c3aed?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Expected](https://img.shields.io/badge/Graduation-June_2028-4f46e5?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/Egypt-Cairo-818cf8?style=for-the-badge&logo=google-maps&logoColor=white)
 
