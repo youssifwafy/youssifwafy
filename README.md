@@ -136,24 +136,16 @@ I'm an engineering student who splits time between **breaking systems to underst
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## GitHub Analytics
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssifwafy&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF" width="48%" />
+<img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=youssifwafy&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssifwafy&theme=radical&hide_border=true&background=0D0221&stroke=9D4EDD&ring=B388FF&fire=E0AAFF&currStreakLabel=E0AAFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssifwafy&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B388FF&text_color=E0AAFF" width="48%" />
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
-
 <div align="center">
-
 ### Currently looking for cybersecurity & AI/ML & Software internship opportunities
-
+ 
 *"Security mindset for the systems I build, engineering mindset for the systems I break."*
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
-
 </div>
