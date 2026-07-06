@@ -80,6 +80,12 @@ I'm an engineering student who splits time between **breaking systems to underst
 
 ## Featured Projects
 
+### Medical Insurance Cost Prediction Model
+*Python · scikit-learn · Flask · HTML/CSS/JS*
+
+- Built and deployed an end-to-end ML pipeline predicting medical insurance costs, from data preprocessing and model training to a Flask API backend
+- Designed a polished frontend UI for real-time predictions, deployed live on PythonAnywhere
+
 ### DevScreen — AI-Powered Technical Recruitment Platform
 *Next.js · React · Supabase · Gemini 2.5 Flash · CodeBERT · ts-morph*
 **Built at AISprint Hackathon — GDG Cairo × EUI**
@@ -94,12 +100,6 @@ I'm an engineering student who splits time between **breaking systems to underst
 - Sole backend developer and architecture lead for an 8-member team; designed a RESTful API and 12-entity MSSQL schema for ticketing, emergency dispatch, food orders, and live event management
 - Built a seat-location-based emergency dispatch system using SSE to relay fan distress signals to stadium staff in real time, without WebSocket overhead
 - Served as Documentation Lead, defining API contracts and schema diagrams that prevented integration issues before deployment
-
-### Medical Insurance Cost Prediction Model
-*Python · scikit-learn · Flask · HTML/CSS/JS*
-
-- Built and deployed an end-to-end ML pipeline predicting medical insurance costs, from data preprocessing and model training to a Flask API backend
-- Designed a polished frontend UI for real-time predictions, deployed live on PythonAnywhere
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
